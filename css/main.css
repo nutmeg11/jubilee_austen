@@ -29,7 +29,7 @@ body {
 /***** HEADER *****/
 
 header {
-    background: url('img/hero.png');
+    background: url('../img/hero.png');
     height: 800px;
     background-size: cover;
 }
